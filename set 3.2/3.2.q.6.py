@@ -1,0 +1,10 @@
+a=["raghav",22,"male"]
+name,age,gender=a
+print("name:",name)
+print("age:",age)
+print("gender:",gender)
+b=[1,2,3,4,5]
+a,*b,c=b
+print("a:",a)
+print("b:",b)
+print("c:",c)
